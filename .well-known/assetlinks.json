@@ -1,0 +1,13 @@
+[{
+  "relation": [
+    "delegate_permission/common.handle_all_urls",
+    "delegate_permission/common.get_login_creds"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dashlane.authenticator",
+    "sha256_cert_fingerprints": [
+      "18:13:11:08:4C:82:89:EB:7D:2C:14:BC:CB:2B:05:1F:02:C7:FA:01:CE:5E:4B:92:E3:15:41:DD:E1:A4:47:DF"
+    ]
+  }
+}]
