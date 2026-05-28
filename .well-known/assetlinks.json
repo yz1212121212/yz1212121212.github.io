@@ -7,7 +7,8 @@
     "namespace": "android_app",
     "package_name": "com.dashlane.dashlanepasskeydemo",
     "sha256_cert_fingerprints": [
-      "18:13:11:08:4C:82:89:EB:7D:2C:14:BC:CB:2B:05:1F:02:C7:FA:01:CE:5E:4B:92:E3:15:41:DD:E1:A4:47:DF"
+      "18:13:11:08:4C:82:89:EB:7D:2C:14:BC:CB:2B:05:1F:02:C7:FA:01:CE:5E:4B:92:E3:15:41:DD:E1:A4:47:DF",
+      "99:BC:59:2D:42:E9:89:D4:60:6A:6D:E2:18:2E:CD:E6:A6:C3:64:83:E9:50:84:DD:65:9A:CF:8C:7C:29:09:28"
     ]
   }
 }]
